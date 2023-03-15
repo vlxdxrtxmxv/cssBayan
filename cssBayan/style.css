@@ -74,8 +74,8 @@ body{
 }
 
 .acor-body:active{
-    opacity: 0.5;
-    transition: 0.8s;
+    opacity: 0.8;
+    transition: 0.2s;
 }
 
 .acor-container input{
